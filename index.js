@@ -8,21 +8,22 @@
 
 //mongo db's atlas provided us with a connection string: 'mongodb+srv://davidyim85:<password>@tumeric.bb9imke.mongodb.net?retryWrites=true&w=majority'
 // I want to update my connection string. my password is 'qwerty123' and i want a database called 'app_fruits', 
-// what will my connection string be? 
+// how can i update my connection string to make the above possible?
 
 
 // what is the popular npm package that provides an Object-Document Maping (ODM) layer for MongoDB?
 // It simplifies the INTERACTION with MongoDB.
 
 
-// what are the http verbs and what do they do? 
+// what are the HTTP verbs? 
 
 
-// Want to render an EJS page, which HTTP verbs have been using in class?
-// keep in mind this is not limited to this http verb. It is just the way we've been teaching it in GA as an introduction to express and ejs
+// Want to render an EJS page, which HTTP verb have been using in class?
+// as you advance outside of this course keep in mind that serving up EJS is limited to this one HTTP verb. 
+// It is just the way we've been teaching it in GA as an introduction to express and ejs
 
 
-// Want to manipulate data which other three HTTP verbs were used?
+// Want to manipulate data which other three HTTP verbs were used in class?
 
 
 // Want to retrieve data which HTTP verb was used? 
