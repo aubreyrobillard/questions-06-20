@@ -48,4 +48,4 @@ router.post("/", async (req, res) => {
     res.redirect("/fruit")
 })
 
-    // this function is 
+    // this function is creating a form to create a new fruit and then redirecting back to the main fruit page once it's submitted 
